@@ -18,7 +18,7 @@ Di C9 :
 - Ketik -> `sudo pip install bs4`
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/naga-bot/Naga`
+- Ketik -> `git clone https://github.com/noranaga83/naga-bot.git`
 - Ketik -> `cd naga`
 - Ketik -> `python naga.py`
 
