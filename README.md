@@ -10,7 +10,7 @@ Cara Install Bot Chucky :
 Di C9 :
 - Ketik -> `sudo apt-get update`
 - Ketik -> `sudo apt-get install git`
-- Ketik -> `sudo apt-get install python-sofware-properties`
+- Ketik -> `sudo apt-get install python-software-properties`
 - Ketik -> `sudo pip install rsa`
 - Ketik -> `sudo pip install thrift==0.9.3`
 - Ketik -> `sudo pip install requests`
@@ -39,15 +39,14 @@ Di Termux :
 Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
-- Ketik -> `cd naga`
+- Ketik -> `cd naga-bot`
 - Ketik -> `python naga.py`
 Di Termux :
 
 - Ketik -> `python2 naga.py`
 
 Credit By@ Naga bot
-- `Follow My Instagram : nadya.tjia`
-- `Add My ID LINE : nad_nad. (pake titik)`
+
 
 Thx To :
 ------
