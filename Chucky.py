@@ -76,8 +76,8 @@ selfMessage ="""
 ╠➩〘Getvid @〙
 ╠➩〘Friendlist〙
 ╠═════════════════════════
-║            💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║            💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
@@ -98,8 +98,8 @@ botMessage ="""
 ╠➩〘@bye (Usir Kapten)〙
 ╠➩〘Bye all (Usir Semua)〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
@@ -140,8 +140,8 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
@@ -174,8 +174,8 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 tjia="u14f64e139a3817afaabe27d237afb36b"
@@ -191,8 +191,8 @@ setMessage ="""
 ╠➩〘Contact on/off〙
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
@@ -218,8 +218,8 @@ creatorMessage ="""
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
@@ -259,8 +259,8 @@ adminMessage ="""
 ╠➩〘Leave on/off〙
 ╠➩〘All join / (TC1/2/3/4 Join)〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
@@ -283,8 +283,8 @@ helpMessage ="""
 ╠➩〘Speed test〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
@@ -299,8 +299,8 @@ protectMessage ="""
 ╠➩〘Ghost on/off〙
 ╠➩〘Invitepro on/off〙
 ╠═════════════════════════
-║             💠 By : Master Ehun 💠
-║    〽️ line.me/ti/p/~Ehun_bravo. 〽️
+║             💠 By : Naga Bot 💠
+║    〽️ line.me/ti/p/~Naga_bravo. 〽️
 ╚═════════════════════════
 """
 
