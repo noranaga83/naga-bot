@@ -19,8 +19,8 @@ Di C9 :
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
 - Ketik -> `git clone https://github.com/noranaga83/naga-bot.git`
-- Ketik -> `cd naga`
-- Ketik -> `python naga.py`
+- Ketik -> `cd naga-bot`
+- Ketik -> `python2 naga.py`
 
 Di Termux :
 - Ketik -> `pkg update`
@@ -33,8 +33,8 @@ Di Termux :
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install googletrans`
 - Ketik -> `git clone https://github.com/naga-bot/Naga`
-- Ketik -> `cd naga`
-- Ketik -> `python naga.py`
+- Ketik -> `cd naga-bot`
+- Ketik -> `python2 naga.py`
 
 Cara Menjalankan Bot Kembali :
 ------
