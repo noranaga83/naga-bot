@@ -32,7 +32,7 @@ Di Termux :
 - Ketik -> `pip2 install bs4`
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/naga-bot/Naga`
+- Ketik -> `git clone https://github.com/noranaga83/naga-bot.git
 - Ketik -> `cd naga-bot`
 - Ketik -> `python2 naga.py`
 
