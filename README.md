@@ -3,23 +3,23 @@ BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
 ------
 GET TOKEN :
 ------
-- `Bot Alphat : https://github.com/Nadyatjia/AlphatTJ`
--
+- `Bot simpleSB : sb.py
+
 Cara Install Bot Chucky :
 ------
 Di C9 :
-- Ketik -> `sudo apt-get update`
-- Ketik -> `sudo apt-get install git`
-- Ketik -> `sudo apt-get install python-software-properties`
-- Ketik -> `sudo pip install rsa`
-- Ketik -> `sudo pip install thrift==0.9.3`
-- Ketik -> `sudo pip install requests`
-- Ketik -> `sudo pip install requests==2.5.3`
-- Ketik -> `sudo pip install bs4`
-- Ketik -> `sudo pip install gtts`
-- Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/noranaga83/naga-bot.git`
-- Ketik -> `cd naga-bot`
+sudo apt-get update && upgrade
+sudo apt-get install git-y
+sudo apt-get install python-software-properties
+sudo pip install rsa
+sudo pip install thrift==0.9.3
+sudo pip install requests
+sudo pip install requests==2.5.3
+sudo pip install bs4
+sudo pip install gtts
+sudo pip install googletrans
+git clone https://github.com/noranaga83/naga-bot.git
+- Ketik -> `cd naga-bot
 - Ketik -> `python2 naga.py`
 
 Di Termux :
